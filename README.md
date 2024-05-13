@@ -1,9 +1,4 @@
-# interpreter
-Android application to teach users to learn sign language.
 
-Functionality of the application on video [Interpreter] ([https://youtu.be/l45vfbyMqrU](https://drive.google.com/file/d/1qyeemu6_Kl4Ydix9dEvVMg1ARGJLW5OX/view?usp=sharing))
-
-An application that will help to acquire and develop the skills of this language.
 
 ## The main task was to create:
 * form of entry into the program;
